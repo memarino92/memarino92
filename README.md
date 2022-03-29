@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Michael. Check out my personal site/blog at [michaelmarino.dev](https://www.michaelmarino.dev)
+I'm Michael. You can find my personal site/blog at [michaelmarino.dev](https://www.michaelmarino.dev)
 
-Hard-working and driven, I came to tech from the restaurant industry. My experience working for a multinational MSP, like my time working in kitchens, has taught me the power of a well organized and well trained team. I bring professional experience in working with Angular, ASP.NET, IdentityServer, Docker, SQL Server, Azure, Git, and am a contributor to projects like RedwoodJs and A Wedge of Django (formerly Django Crash Course).
+Hard-working and driven, I came to tech from the restaurant industry. My experience working for a multinational MSP, like my time working in kitchens, has taught me the power of a well organized and well trained team. I bring professional experience in working with Angular, ASP.NET, IdentityServer, Docker, SQL Server, Azure, Git, and I'm a contributor to open source projects like [Astro](https://astro.build) and [RedwoodJs](https://redwoodjs.com/).
 
-- 🔭 I’m currently building [SettlUp.app](https://settlup.app), an ever-improving tool for splitting expenses
+- 🔭 I’m in the early stages of building [SettlUp.app](https://settlup.app), an ever-improving tool for splitting expenses.
 - 🌱 I’m currently working on practicing Test Driven Development
 - 📫 How to reach me: ...
   - [michael@michaelmarino.dev](mailto:michael@michaelmarino.dev)
