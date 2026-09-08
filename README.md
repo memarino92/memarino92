@@ -37,3 +37,7 @@ It started as a chat interface and has grown to include file uploads, speaker-aw
 Underneath, it's a distributed .NET application composed of three services on a private network, with asynchronous messaging, relational data, and vector search consolidated into PostgreSQL with automated backups.
 
 No public deployment for this one—unless you ask really nicely. 😉
+
+---
+
+Looking for the wall of green? That’s over on [my work GitHub](https://github.com/vacu-michael)
