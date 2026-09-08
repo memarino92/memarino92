@@ -8,7 +8,7 @@ Pinned below are a few projects that show off the breadth of what I like to buil
 
 A fun technological challenge: **how do you virtualize and browse a list containing 80 unvigintillion elements?**
 
-The site maps arbitrary-precision integers to unique permutations of a 52-card deck and back again. Since rendering performance is the entire game, the frontend uses Solid, virtualization, and a Web Worker to keep the heavy math off the main thread while maintaining a smooth, effectively infinite scrolling experience.
+The site maps arbitrary-precision integers to unique permutations of a 52-card deck and back again. Since rendering performance is the entire game, the frontend uses Solid, hand-rolled virtualization, and a Web Worker to keep the heavy math off the main thread while maintaining a smooth, effectively infinite scrolling experience.
 
 Try it at [everydeckof.cards](https://everydeckof.cards).
 
@@ -20,6 +20,14 @@ A good example of one of my favorite kinds of engineering: **finding a great ide
 
 [View RazorScopedStyleElements on NuGet.org](https://www.nuget.org/packages/RazorScopedStyleElements).
 
+### 🔔 `bzzr`
+
+A simple idea: **a free, frictionless buzzer system for Jeopardy-style games.**
+
+`bzzr` supports real-time rooms of up to 60 players and is built with React, RedwoodSDK, Tailwind CSS, and Storybook. It's deployed on Cloudflare, with Durable Objects coordinating real-time multiplayer state.
+
+Buzz in at [bzzr.app](https://bzzr.app).
+
 ### 🤖 `AgentPlayground`
 
 My agentic digital garden: part playground, part useful personal software, and an excuse to keep experimenting with what modern AI systems can actually do.
@@ -29,11 +37,3 @@ It started as a chat interface and has grown to include file uploads, speaker-aw
 Underneath, it's a distributed .NET application composed of three services on a private network, with asynchronous messaging, relational data, and vector search consolidated into PostgreSQL with automated backups.
 
 No public deployment for this one—unless you ask really nicely. 😉
-
-### 🔔 `bzzr`
-
-A simple idea: **a free, frictionless buzzer system for Jeopardy-style games.**
-
-`bzzr` supports real-time rooms of up to 60 players and is built with React, RedwoodSDK, Tailwind CSS, and Storybook. It's deployed on Cloudflare, with Durable Objects coordinating real-time multiplayer state.
-
-Buzz in at [bzzr.app](https://bzzr.app).
