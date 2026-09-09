@@ -32,7 +32,7 @@ Buzz in at [bzzr.app](https://bzzr.app).
 
 My agentic digital garden: part playground, part useful personal software, and an excuse to keep experimenting with what modern AI systems can actually do.
 
-It started as a chat interface and has grown to include file uploads, speaker-aware voice transcription, web search, semantic-search RAG, real-time and scheduled tasks, push notifications through a mobile companion app, and role-based access control around tool execution.
+It started as a chat interface and has grown to include file uploads, speaker-aware voice transcription, web search, semantic-search RAG, real-time and scheduled tasks, push notifications through a mobile companion app, and role-based access control around tool execution with social login.
 
 Underneath, it's a distributed .NET application composed of three services on a private network, with asynchronous messaging, relational data, and vector search consolidated into PostgreSQL with automated backups.
 
